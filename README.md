@@ -143,11 +143,22 @@ cd MHDDoS
 pip install -r requirements.txt
 ```
 
+**One-Line Installing on Fresh VPS**
+
+```shell script
+apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential ruby perl golang git && git clone https://github.com/MatrixTM/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
+```
+
 [python3]: https://python.org 'Python3'
 [github]: https://github.com/MatrixTM/MHDDoS/issues 'GitHub'
 
 ---
 
 **💰 Donation Links:**
-* https://idpay.ir/mh-prodev
+#### Donate Links
+
+<b>BTC</b>: <code>bc1q7dhut0fp3sqmz95kth0munte6exzlrne23jtjh</code></br>
+<b>ETH</b>: <code>0xff2fAF77705de1b842fCbA29c95E5C9e7dc266Dc</code></br>
+<b>USDT TRC20</b>: <code>TNeZtxhaYYseJoUS2LWmao6cDbYciprhKz</code></br></br>
+<b>Toman</b>: https://idpay.ir/mh-prodev</br>
 
